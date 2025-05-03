@@ -1,0 +1,19 @@
+baseURL               = "https://gilbert.fyi/"
+languageCode          = "en-us"
+title                 = "josh gilbert"
+theme                 = "hello-friend-ng"
+
+[params]
+  profileName = "Gilbert fyi"
+
+[[params.social]]
+  icon = "linkedin"
+  url  = "https://work.gilbert.fyi"
+
+[[params.social]]
+  icon = "github"
+  url  = "https://gilbert.fyi/blog/"
+
+[[params.social]]
+  icon = "email"
+  url  = "https://linkedin.com/in/joshjgilbert"
