@@ -2,8 +2,6 @@
 title: "Gilbert fyi"
 ---
 
-Welcome to my page.  
-
 ## Work  
 Co-founder and CEO at Sust Global, developing geospatial AI for institutional clients
 [Go to Work (website)](https://www.sustglobal.com{: .button }
